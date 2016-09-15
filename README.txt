@@ -1,6 +1,6 @@
 # testGIT
-test new
+test new1
 
 
 fresh new data
-
+changing data
